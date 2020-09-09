@@ -1,0 +1,147 @@
+.lb-div1 > input {
+    width: 185px;
+    height: 37px;
+    text-indent: 10px;
+    border: 1px solid rgba(228, 228, 228, 1);
+    border-radius: 5px;
+  }
+  .lb-div {
+    text-align: left;
+  }
+  .lb-div2 {
+    margin-right: 40%;
+    width: 800px;
+  }
+  .lb-div1 {
+    float: left;
+    /* display: inline-block; */
+  }
+  .ding {
+    float: left;
+    /* margin-left: 23%; */
+    margin-top: 8%;
+    width: 100%;
+  }
+  .float {
+    clear: both;
+  }
+  
+  .jian1 {
+    font-size: 25px;
+    font-weight: bold;
+    color: blue;
+    text-align: left;
+    margin-top: 10px;
+  }
+  
+  .jian2 {
+    width: 100%;
+    height: 130px;
+    box-sizing: border-box;
+    border-width: 1px;
+    border-style: solid;
+    border-color: rgba(228, 228, 228, 1);
+    margin-top: 20px;
+  }
+  
+  .jian3 {
+    margin-top: 10px;
+    margin-left: 10px;
+    color: #666666;
+    font-weight: 400;
+    text-align: left;
+  }
+  
+  .jian3 i {
+    margin-left: 10px;
+    margin-right: 10px;
+  }
+  
+  .shou1 {
+    margin-top: 25px;
+  }
+  
+  .shou2 {
+    font-size: 15px;
+    margin-left: 20px;
+    margin-right: 20px;
+  }
+  
+  .block {
+    margin-left: 450px;
+    margin-top: -28px;
+  }
+  
+  .shou6 {
+    width: 80px;
+    height: 30px;
+    text-align: center;
+    line-height: 30px;
+    color: white;
+    background-color: rgba(145, 55, 243, 1);
+    border-radius: 4px;
+    cursor: pointer;
+    float: right;
+    margin-top: -33px;
+    margin-right: 150px;
+  }
+  
+  .shou0 {
+    font-size: 14px;
+    float: right;
+    margin-top: -30px;
+    cursor: pointer;
+    margin-right: 50px;
+    color: #9137f3;
+  }
+  
+  .tian1 {
+    width: 100%;
+    height: 488px;
+    box-sizing: border-box;
+    border-width: 1px;
+    border-style: solid;
+    border-color: rgba(228, 228, 228, 1);
+    margin-top: 20px;
+    margin-bottom: 10px;
+  }
+  
+  .tian2 {
+    width: 120px;
+    height: 30px;
+    font-size: 16px;
+    text-align: center;
+    line-height: 30px;
+    color: rgba(145, 55, 243, 1);
+    background-color: white;
+    border-radius: 4px;
+    cursor: pointer;
+    float: right;
+    margin-top: -22px;
+    margin-right: 160px;
+    border: 1px solid rgba(145, 55, 243, 1);
+  }
+  
+  .tian3 {
+    width: 120px;
+    height: 30px;
+    font-size: 16px;
+    text-align: center;
+    line-height: 30px;
+    color: rgba(145, 55, 243, 1);
+    background-color: white;
+    border-radius: 4px;
+    cursor: pointer;
+    float: right;
+    margin-top: -22px;
+    margin-right: -250px;
+    border: 1px solid rgba(145, 55, 243, 1);
+  }
+  
+  .el-table th > .cell {
+    text-align: center;
+  }
+  
+  .el-table .cell {
+    text-align: center;
+  }
